@@ -1,0 +1,26 @@
+$position1: absolute;
+
+#nav {
+  height: 1024px;
+  width: 336px;
+  left: 0px;
+  top: 0px;
+  border-radius: 0px;
+  position: $position1;
+  color: red;
+}
+
+.bgimg {
+  color: gray;
+  position: $position1;
+  height: 50%;
+  width: 50%;
+  top: 10inch;
+}
+
+.input {
+  position: $position1;
+  width: 1000px;
+  top: 60px;
+  left: 10px;
+}
